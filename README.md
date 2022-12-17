@@ -18,7 +18,7 @@
 
 - Home page
     - Seach bar
-    - # Segmented doubts,articles,videos and image posts.
+    - <mark> Segmented doubts,articles,videos and image posts</mark>.
     - used masonary layout to display each posts.
     - Upvote,like,comment,save and delete the posts.
     - filter the posts on the basis of categories
