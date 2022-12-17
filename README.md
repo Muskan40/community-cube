@@ -18,20 +18,20 @@
 
 - Home page
     - Seach bar
-    - <h4 style="color:red">Segmented doubts,articles,videos and image posts.</h4>
+    - <h5>Segmented doubts,articles,videos and image posts.</h5>
     - used masonary layout to display each posts.
-    - Upvote,like,comment,save and delete the posts.
+    - <h5>Upvote,like,comment,save and delete the posts.</h5>
     - filter the posts on the basis of categories
 
-- Sub filter on doubt page(resolved,unresolved,time).
-- Sub filter on article and video posts(upvote,time).
+- <h5>Sub filter on doubt page(resolved,unresolved,time).</h5>
+- <h5>Sub filter on article and video posts(upvote,time).</h5>
 
 - Pages for posting different categories
     - Doubt.
     - Article.
     - Video.
     - Image.
-    - Broadcast message in realtime(using socket.io)
+    - <h5>Broadcast message in realtime(using socket.io)</h5>
 
 - push alerts
 - cool animation transitions.
