@@ -13,8 +13,8 @@
     - User description(update/delete)
     - Connection links(github/linkedln/twitter/other-link)<br/>
     - <code><i> saved article posts(remove)</i></code>
-    - saved video posts(remove)
-    - saved Images(remove)
+    - <code><i>saved video posts(remove)</i></code>
+    - <code><i>saved Images(remove)</i></code>
 
 - Home page
     - Seach bar
