@@ -5,7 +5,7 @@
 
 ---
 ## Features
-- One-time Google authentication (sign in/sign out)  with college Email id filter.
+- <code><b>One-time Google authentication (sign in/sign out)  with college Email id filter.</b></code>
 - user profile page
     - Profile image(update/delete)
     - Background image(update/delete)
