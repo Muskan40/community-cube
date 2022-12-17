@@ -20,7 +20,7 @@
     - Seach bar
     - <h5>Segmented doubts,articles,videos and image posts.</h5>
     - used masonary layout to display each posts.
-    - <h5>Upvote,like,comment,save and delete the posts.</h5>
+    - <h5><b>Upvote,like,comment,save and delete the posts.</b></h5>
     - filter the posts on the basis of categories
 
 - <h5>Sub filter on doubt page(resolved,unresolved,time).</h5>
