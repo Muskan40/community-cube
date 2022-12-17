@@ -40,7 +40,7 @@
 
 # Snapshots
 
-    <img width="1434" alt="Screenshot 2022-12-17 at 2 41 35 PM" src="https://user-images.githubusercontent.com/67264445/208234744-52a66337-9e24-49e5-b8a7-bae4652e9665.png">
+<img width="1431" alt="Screenshot 2022-12-17 at 2 42 25 PM" src="https://user-images.githubusercontent.com/67264445/208234771-8b3155f0-6680-49db-9b93-76efd91cbf18.png">
 
 
     
