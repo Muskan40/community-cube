@@ -11,8 +11,8 @@
     - Background image(update/delete)
     - Logout
     - User description(update/delete)
-    - Connection links(github/linkedln/twitter/other-link)
-    -<code><i> saved article posts(remove)</i></code>
+    - Connection links(github/linkedln/twitter/other-link)<br/>
+    - <code><i> saved article posts(remove)</i></code>
     - saved video posts(remove)
     - saved Images(remove)
 
