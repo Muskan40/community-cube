@@ -18,7 +18,7 @@
 
 - Home page
     - Seach bar
-    - <h3>Segmented doubts,articles,videos and image posts</h3>.
+    - <h4 style="color:'red'">Segmented doubts,articles,videos and image posts.</h4>
     - used masonary layout to display each posts.
     - Upvote,like,comment,save and delete the posts.
     - filter the posts on the basis of categories
