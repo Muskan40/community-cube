@@ -12,7 +12,7 @@
     - Logout
     - User description(update/delete)
     - Connection links(github/linkedln/twitter/other-link)
-    - saved article posts(remove)
+    -<code><i> saved article posts(remove)</i></code>
     - saved video posts(remove)
     - saved Images(remove)
 
@@ -31,9 +31,8 @@
     - Article.
     - Video.
     - Image.
-    - <h5>Broadcast message in realtime(using socket.io)</h5>
-    - <code> <i>This text will be italic</i> <b>this text will be bold</b> </code>
-
+    -<code> <i>Broadcast message in realtime(using socket.io)</i></code>
+   
 - push alerts
 - cool animation transitions.
 - resposive(mobile and desktop friendly)
