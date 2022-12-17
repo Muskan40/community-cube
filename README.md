@@ -37,7 +37,11 @@
 - <code><b>push alerts</b></code>
 - cool animation transitions.
 - <code><b>resposive(mobile and desktop friendly).</b></code>
-    
+
+# Snapshots
+
+    <img width="1434" alt="Screenshot 2022-12-17 at 2 41 35 PM" src="https://user-images.githubusercontent.com/67264445/208234744-52a66337-9e24-49e5-b8a7-bae4652e9665.png">
+
 
     
     
