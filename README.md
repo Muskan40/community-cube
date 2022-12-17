@@ -18,7 +18,7 @@
     - <code><i>saved Images(remove)</i></code>
 
 - Home page
-    - Seach bar
+    - Search bar
     - <code><i>Segmented doubts,articles,videos and image posts.</i></code>
     - <code><i>used masonary layout to display each posts.</i></code>
     - <code><i>Upvote,like,comment,save and delete the posts.</i></code>
@@ -36,7 +36,7 @@
    
 - <code><b>push alerts</b></code>
 - cool animation transitions.
-- <code><b>resposive(mobile and desktop friendly).</b></code>
+- <code><b>responsive(mobile and desktop friendly).</b></code>
 
 # Snapshots
 
