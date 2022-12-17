@@ -32,6 +32,7 @@
     - Video.
     - Image.
     - <h5>Broadcast message in realtime(using socket.io)</h5>
+    - <code> <i>This text will be italic</i> <b>this text will be bold</b> </code>
 
 - push alerts
 - cool animation transitions.
