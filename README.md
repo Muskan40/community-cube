@@ -2,6 +2,7 @@
 | Project | Link |
 | ------ | ------ |
 | Website | http://localhost:3000/|
+| video link | https://drive.google.com/file/d/1Y7DVKrhlsfa3AAAqu9gkdXqJQV_XVhPk/view?usp=share_link |
 
 ---
 ## Features
